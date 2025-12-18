@@ -1,0 +1,7 @@
+{
+  "name": "台南大學新生指南",
+  "description": "提供台南大學新生校園生活的全方位指南，包含美食地圖、共享課表與匿名留言板。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
